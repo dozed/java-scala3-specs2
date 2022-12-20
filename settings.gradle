@@ -1,0 +1,2 @@
+rootProject.name = 'java-scala3-specs2'
+include('app')
